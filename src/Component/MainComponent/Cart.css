@@ -1,0 +1,39 @@
+.cartOuterDiv{
+    /* border: 2px solid black; */
+    height: 50vh;
+    width: 25vw;
+    margin: 30px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    background-color: #a8b8ff;
+}
+.ImageDiv{
+    /* border: 2px solid red; */
+    height: 75%;
+    width: 90%;
+    position: absolute;
+    top: -20px;
+    
+}
+.ImageDiv img{
+    height: 100%;
+    width: 100%;
+}
+.HeadingDiv{
+    /* border: 2px solid blue; */
+    height: 35%;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.HeadingDiv h1{
+    font-size: 1rem;
+    color: #343d48;
+}

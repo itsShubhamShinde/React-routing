@@ -1,0 +1,13 @@
+.BlogDiv{
+    /* border: 2px solid blue; */
+    height: 100%;
+    width: 100%;
+}
+.BlogDiv img{
+    height: 100%;
+    width: 100%;
+    padding: 20px;    
+}
+.blog h1{
+    font-size: 4rem;
+}
