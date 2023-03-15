@@ -51,3 +51,7 @@ a:link{text-decoration: none;}
 a:hover { color: red;}
 
 
+.headerMiddleDiv ul a li{
+color: black;
+text-decoration: none;
+}
